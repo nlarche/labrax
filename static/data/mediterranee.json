@@ -1,0 +1,103 @@
+[
+  {
+    "name": "anchois",
+    "sp": "Engraulis encrasicolus",
+    "size": "9"
+  },
+  {
+    "name": "bar",
+    "sp": "Dicentrarchus labrax",
+    "size": "30"
+  },
+  {
+    "name": "baudroie",
+    "sp": "Lophius sp",
+    "size": ""
+  },
+  {
+    "name": "capelan",
+    "sp": "Trisopterus minutus capelanus",
+    "size": ""
+  },
+  {
+    "name": "chinchard",
+    "sp": "Tracturus tracturus",
+    "size": "15"
+  },
+  {
+    "name": "congre",
+    "sp": "Conger conger",
+    "size": "60"
+  },
+  {
+    "name": "daurade royale",
+    "sp": "Sparus aurata",
+    "size": "23"
+  },
+  {
+    "name": "grondin perlon",
+    "sp": "Chelidonichthys lucernus",
+    "size": ""
+  },
+  {
+    "name": "grondin rouge",
+    "sp": "Aspitrigla cuculus",
+    "size": ""
+  },
+  {
+    "name": "maquereau",
+    "sp": "Scomber scombrus",
+    "size": "18"
+  },
+  {
+    "name": "marbré commun",
+    "sp": "Lithognathus mormyrus",
+    "size": "20"
+  },
+  {
+    "name": "merlu",
+    "sp": " Merluccius merluccius",
+    "size": "20"
+  },
+  {
+    "name": "pageot acarné",
+    "sp": "Pagellus acarne",
+    "size": "17"
+  },
+  {
+    "name": "pageot commun",
+    "sp": "Pagellus erythrinus",
+    "size": "15"
+  },
+  {
+    "name": "rouget barbet de roche",
+    "sp": "Mullus surmulus",
+    "size": "15"
+  },
+  {
+    "name": "rouget barbet de base",
+    "sp": "Mullus barbatu",
+    "size": "15"
+  },
+  {
+    "name": "sar commun",
+    "sp": "Diplodus sargus",
+    "size": "25"
+  },
+  {
+    "name": "sardine",
+    "sp": "Sardina pilchardus",
+    "size": "11"
+  },
+  {
+    "name": "sole",
+    "sp": "Solea spp",
+    "size": "24"
+  },
+  {
+    "name": "thon rouge",
+    "sp": "Thunnus thynnus",
+    "size": "115",
+    "weight": "30000"
+  }
+]

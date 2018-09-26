@@ -1,0 +1,122 @@
+[
+  {
+    "name": "alose",
+    "sp": "Alose spp",
+    "size": "30"
+  },
+  {
+    "name": "anchois",
+    "sp": "Engraulis encrasicolus",
+    "size": "12"
+  },
+  {
+    "name": "bar",
+    "sp": "Dicentrarchus labrax",
+    "size": "42"
+  },
+  {
+    "name": "baudroie",
+    "sp": "Lophius sp",
+    "size": "50"
+  },
+  {
+    "name": "cardine",
+    "sp": " Lepidorhombus whiffiagonis",
+    "size": "20"
+  },
+  {
+    "name": "céteau",
+    "sp": "dicologlossa cuneata",
+    "size": "15"
+  },
+  {
+    "name": "chinchard",
+    "sp": "Tracturus tracturus",
+    "size": "15"
+  },
+  {
+    "name": "daurade royale",
+    "sp": "Sparus aurata",
+    "size": "23"
+  },
+  {
+    "name": "dorade grise",
+    "sp": "Spondyliosoma cantharus",
+    "size": "23"
+  },
+  {
+    "name": "eglefin",
+    "sp": "Melanogrammus aeglefinus",
+    "size": "30"
+  },
+  {
+    "name": "flet",
+    "sp": "Platichthys flesus",
+    "size": "20"
+  },
+  {
+    "name": "lieu noir",
+    "sp": "Pollachius virens",
+    "size": "35"
+  },
+  {
+    "name": "lieu jaune",
+    "sp": "Pollachius pollachius",
+    "size": "30"
+  },
+  {
+    "name": "maigre",
+    "sp": "Argyrosomus regius",
+    "size": "45"
+  },
+  {
+    "name": "maquereau",
+    "sp": "Scomber scombrus",
+    "size": "20"
+  },
+  {
+    "name": "merlan",
+    "sp": "Merlangius merlangus",
+    "size": "27"
+  },
+  {
+    "name": "merlu",
+    "sp": " Merluccius merluccius",
+    "size": "27"
+  },
+  {
+    "name": "plie",
+    "sp": "Pleuronectes platessa",
+    "size": "27"
+  },
+  {
+    "name": "raie bouclée",
+    "sp": " Raja clavata",
+    "size": "-"
+  },
+  {
+    "name": "raie fleurie",
+    "sp": " Raja naevus",
+    "size": "-"
+  },
+  {
+    "name": "rouget barbet",
+    "sp": "Mullus surmulus",
+    "size": "15"
+  },
+  {
+    "name": "sardine",
+    "sp": "Sardina pilchardus",
+    "size": "11"
+  },
+  {
+    "name": "sole",
+    "sp": "Solea spp",
+    "size": "24"
+  },
+  {
+    "name": "tacaud",
+    "sp": "Trisopterus luscus",
+    "size": "-"
+  }
+]

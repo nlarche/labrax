@@ -1,0 +1,115 @@
+[
+  {
+    "name": "bar",
+    "sp": "Dicentrarchus labrax",
+    "size": "42"
+  },
+  {
+    "name": "barbue",
+    "sp": "Scophthalmus rhombus ",
+    "size": "30"
+  },
+  {
+    "name": "chinchard",
+    "sp": "Tracturus tracturus",
+    "size": "15"
+  },
+  {
+    "name": "grondin gris",
+    "sp": "Eutrigla gurnardus",
+    "size": ""
+  },
+  {
+    "name": "grondin perlon",
+    "sp": "Chelidonichthys lucernus",
+    "size": ""
+  },
+  {
+    "name": "grondin rouge",
+    "sp": "Aspitrigla cuculus",
+    "size": ""
+  },
+  {
+    "name": "dorade grise",
+    "sp": "Spondyliosoma cantharus",
+    "size": "23"
+  },
+  {
+    "name": "hareng",
+    "sp": "Clupea harengus",
+    "size": "23"
+  },
+  {
+    "name": "limande",
+    "sp": "Limanda limanda",
+    "size": "20"
+  },
+  {
+    "name": "limande sole",
+    "sp": "Microtomus kitt",
+    "size": "25"
+  },
+  {
+    "name": "lieu jaune",
+    "sp": "Pollachius pollachius",
+    "size": "30"
+  },
+  {
+    "name": "maquereau",
+    "sp": "Scomber scombrus",
+    "size": {
+      "Manche est": "20",
+      "mer du nord": "30"
+    }
+  },
+  {
+    "name": "merlan",
+    "sp": "Merlangius merlangus",
+    "size": "27"
+  },
+  {
+    "name": "morue",
+    "sp": "Gadus morhua",
+    "size": "42"
+  },
+  {
+    "name": "plie",
+    "sp": "Pleuronectes platessa",
+    "size": "27"
+  },
+  {
+    "name": "raie bouclée",
+    "sp": " Raja clavata",
+    "size": "-"
+  },
+  {
+    "name": "raie douce",
+    "sp": " Raja montagui",
+    "size": "-"
+  },
+  {
+    "name": "rouget barbet",
+    "sp": "Mullus surmulus",
+    "size": "15"
+  },
+  {
+    "name": "saint pierre",
+    "sp": "Zeus faber",
+    "size": ""
+  },
+  {
+    "name": "sole",
+    "sp": "Solea spp",
+    "size": "24"
+  },
+  {
+    "name": "tacaud",
+    "sp": "Trisopterus luscus",
+    "size": "-"
+  },
+  {
+    "name": "turbot",
+    "sp": "Psetta maxima",
+    "size": "30"
+  }
+]
